@@ -7,7 +7,7 @@ module.exports = {
     connection: {
       host: 'localhost',
       database: 'omnistak_db',
-      user: 'hoot',
+      user: 'root',
       password: ''
     },
     pool: {
